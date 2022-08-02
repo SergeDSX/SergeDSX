@@ -13,7 +13,7 @@
 **Проекты:**
 - (разработка) [Чат-бот ВК для групп по оказанию платных услуг](https://github.com/SergeDSX/vk_demo_bot)
 - (продуктовая аналитика) [Анализ базы данных чат-бота](https://github.com/SergeDSX/Chatbot_analytics)
-- (аналитика) [Учебные проекты по аналитике](https://github.com/SergeDSX/Educational_projects)
+- (продуктовая аналитика) [Учебные проекты по аналитике](https://github.com/SergeDSX/Educational_projects)
 
 [Резюме на HeadHunter](https://spb.hh.ru/resume/7e7b618dff09b86c9e0039ed1f4b326d466b75)
 
