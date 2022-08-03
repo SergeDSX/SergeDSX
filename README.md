@@ -15,11 +15,7 @@
 - (продуктовая аналитика) [Анализ базы данных чат-бота](https://github.com/SergeDSX/Chatbot_analytics)
 - (продуктовая аналитика) [Учебные проекты по аналитике](https://github.com/SergeDSX/Educational_projects)
 
-[Резюме на HeadHunter](https://spb.hh.ru/resume/7e7b618dff09b86c9e0039ed1f4b326d466b75)
-
-[Резюме в PDF](https://disk.yandex.ru/i/Ym1_mYB9BOPC0w)
-
-Контакт в Telegram: @Serge_dsx
+Контакт в Telegram: https://t.me/Serge_dsx
 
 <!---
 SergeDSX/SergeDSX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
