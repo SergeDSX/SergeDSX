@@ -6,8 +6,6 @@
 - (продуктовая аналитика) [Учебные проекты по аналитике](https://github.com/SergeDSX/Educational_projects)
 - (DataViz) [Проекты по визуализации и созданию дашбордов](https://github.com/SergeDSX/Educational_projects/blob/main/Data_viz.md)
 
-Контакт в Telegram: https://t.me/Serge_dsx
-
 <!---
 SergeDSX/SergeDSX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
